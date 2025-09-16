@@ -1,7 +1,7 @@
 # EXP NO 2
 
-### NAME : KRISHNA KUMAR R
-### REG NO : 212223230107
+### NAME : RAJA GOPAL V
+### REG NO : 212223240134
 
 ## AIM:
       To perform Exploratory Data Analysis on the given data set.
